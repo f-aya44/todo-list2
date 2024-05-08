@@ -8,6 +8,7 @@ export default defineConfig({
             input: [
                 'resources/sass/app.scss',
                 'resources/ts/components',
+                'resources/ts/Index.tsx',
             ],
             refresh: true,
         }),
